@@ -1,2 +1,2 @@
-# LinearHaskellgebra
-Linear algebra explored through the Haskell programming language.
+# TrianansHomeForWaywardHaskell
+Random Haskell code; some neat functions, some linear algebra stuff, all amateur AF.
